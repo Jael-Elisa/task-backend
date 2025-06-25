@@ -1,0 +1,5 @@
+{
+  "name": "task-backend",
+  "description": "Backend PHP para TaskPlanner",
+  "require": {}
+}
